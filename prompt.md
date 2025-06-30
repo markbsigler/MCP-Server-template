@@ -1,4 +1,4 @@
-#MCP Server TypeScript Node Project Generation Prompt
+# MCP Server TypeScript Node Project Generation Prompt
 
 Generate a production-ready TypeScript/Node.js FastMCP server project with the following best practices and security mitigations:
 
