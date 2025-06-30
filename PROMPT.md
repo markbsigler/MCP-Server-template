@@ -1,6 +1,6 @@
 # MCP Server TypeScript Node Project Generation Prompt
 
-Generate a production-ready TypeScript/Node.js FastMCP server project with the following best practices and security mitigations:
+Generate a production-ready TypeScript/Node.js MCP server project with the following best practices and security mitigations:
 
 ## Project Structure and Standards
 - Use a modular `src/` layout with `src/handlers/`, `src/middleware/`, `src/types/`, and `src/utils/` directories
