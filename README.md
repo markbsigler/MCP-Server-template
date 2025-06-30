@@ -210,33 +210,6 @@ We welcome contributions to improve this MCP Server template! Here's how you can
    git checkout -b feature/your-feature-name
    ```
 
-### Development Setup
-
-1. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-2. **Run tests** to ensure everything works:
-   ```bash
-   npm test
-   ```
-3. **Start development server**:
-   ```bash
-   npm run dev
-   ```
-
-### Making Changes
-
-1. **Follow the existing code style** and patterns
-2. **Add tests** for new functionality
-3. **Update documentation** as needed
-4. **Ensure all tests pass**:
-   ```bash
-   npm run test
-   npm run lint
-   npm run build
-   ```
-
 ### Types of Contributions
 
 We're looking for help with improving the **PROMPT.md** file:
